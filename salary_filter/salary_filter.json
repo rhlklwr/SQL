@@ -1,0 +1,92 @@
+[
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"avg_salary" : 62924.4289
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"avg_salary" : 72609.2690
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"avg_salary" : 67554.2469
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"avg_salary" : 61860.7746
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"avg_salary" : 62978.9139
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"avg_salary" : 60190.3843
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"avg_salary" : 61963.6756
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"avg_salary" : 61795.8586
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"avg_salary" : 67420.6947
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"avg_salary" : 62900.3114
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"avg_salary" : 67982.0745
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"avg_salary" : 68693.7540
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"avg_salary" : 71277.3089
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"avg_salary" : 61990.4138
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"avg_salary" : 62343.9477
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"avg_salary" : 62957.6283
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"avg_salary" : 60696.8363
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"avg_salary" : 59868.1174
+	}
+]
