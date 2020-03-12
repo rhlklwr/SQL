@@ -1,0 +1,1406 @@
+[
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 58895.85,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 59232.75,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 59743.08,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 60436.85,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 64547.55,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 65377.05,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 66467.56,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 67253.18,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 66332.51,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 67594.58,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 73248.01,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 75364.26,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Marketing",
+		"salary" : 77525.24,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 57358.31,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 57670.20,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 59755.19,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 60879.25,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 61673.05,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 63080.14,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 63678.94,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 64402.33,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 65582.10,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 66361.30,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 68347.80,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 70363.80,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Marketing",
+		"salary" : 71984.04,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 57643.56,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 56426.53,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 58294.62,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 59036.87,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 62926.06,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 64161.47,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 65447.59,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 66108.29,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 65170.73,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 66548.04,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 72095.66,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 74134.44,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Finance",
+		"salary" : 76027.38,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 56502.18,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 58490.73,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 58536.58,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 59552.54,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 60829.02,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 61103.05,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 62151.46,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 62924.74,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 64103.31,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 65253.63,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 67159.97,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 69267.87,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Finance",
+		"salary" : 70989.36,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 40998.23,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 42164.28,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 43316.85,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 44419.21,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 48020.06,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 49161.39,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 50041.42,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 51046.97,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 50250.60,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 51602.10,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 57180.79,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 59150.86,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Human Resources",
+		"salary" : 61449.24,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 40972.99,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 42486.17,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 43814.29,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 45188.98,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 46372.79,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 47084.66,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 47813.78,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 48764.45,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 49703.58,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 50823.26,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 52911.55,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 54962.18,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Human Resources",
+		"salary" : 56501.56,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 45269.05,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 46446.64,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 47582.76,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 48724.61,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 52590.55,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 53527.26,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 54461.46,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 55491.81,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 54637.81,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 55989.69,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 61605.93,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 63642.94,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Production",
+		"salary" : 65608.67,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 45138.16,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 46309.19,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 47214.69,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 48482.06,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 49349.21,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 50276.05,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 51357.65,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 52261.68,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 53345.36,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 54263.07,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 56190.65,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 58403.74,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Production",
+		"salary" : 60467.83,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 45764.32,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 46596.06,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 47629.32,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 48628.51,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 52597.50,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 53570.37,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 54600.03,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 55603.54,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 54768.88,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 56026.85,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 61562.88,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 63674.08,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Development",
+		"salary" : 65813.90,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 45610.85,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 46623.26,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 47389.42,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 48511.89,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 49572.48,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 50397.55,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 51329.42,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 52164.69,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 53232.17,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 54359.81,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 56297.66,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 58424.18,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Development",
+		"salary" : 60260.34,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 42991.80,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 45221.94,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 45813.23,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 46487.68,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 50517.67,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 51656.11,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 52484.49,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 53448.81,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 52442.07,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 53884.69,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 59421.57,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 61657.05,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Quality Management",
+		"salary" : 63650.47,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 43468.01,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 44595.49,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 45900.70,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 46704.83,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 47438.31,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 48211.26,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 49262.54,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 50224.05,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 51014.05,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 51940.34,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 53863.33,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 55946.66,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Quality Management",
+		"salary" : 57629.97,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 67413.76,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 68846.84,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 69628.75,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 70643.11,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 74672.25,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 75392.29,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 76194.49,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 77031.56,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 76140.20,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 77413.62,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 83072.84,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 85173.86,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Sales",
+		"salary" : 87113.29,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 67448.70,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 67270.69,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 68333.47,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 69328.25,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 70368.89,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 71582.74,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 72539.82,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 73673.18,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 74629.33,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 75489.05,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 77469.37,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 79553.59,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Sales",
+		"salary" : 81513.38,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 46638.34,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 46843.79,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 47339.88,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 48624.61,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 52723.48,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 53567.51,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 54667.78,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 55841.00,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 55095.75,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 56363.11,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 61922.89,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 64006.22,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Research",
+		"salary" : 66512.30,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 47005.88,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 46979.08,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 47635.95,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 48588.29,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 49742.10,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 50420.71,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 51633.22,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 52388.12,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 53413.43,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 54685.89,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 56551.97,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 58615.66,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Research",
+		"salary" : 60821.50,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 44414.06,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 45559.61,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 47072.03,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 48258.55,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 52224.26,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 53229.88,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 54163.48,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 55053.94,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 53932.73,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 55340.74,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 61004.78,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 63213.53,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "M",
+		"dept_name" : "Customer Service",
+		"salary" : 66075.16,
+		"calendar_year" : 2002
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 44814.29,
+		"calendar_year" : 1990
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 45064.92,
+		"calendar_year" : 1991
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 46912.41,
+		"calendar_year" : 1992
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 48566.83,
+		"calendar_year" : 1993
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 49391.65,
+		"calendar_year" : 1994
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 50205.51,
+		"calendar_year" : 1995
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 51306.14,
+		"calendar_year" : 1996
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 52383.74,
+		"calendar_year" : 1997
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 53280.83,
+		"calendar_year" : 1998
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 54233.42,
+		"calendar_year" : 1999
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 56243.48,
+		"calendar_year" : 2000
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 58277.64,
+		"calendar_year" : 2001
+	},
+	{
+		"gender" : "F",
+		"dept_name" : "Customer Service",
+		"salary" : 60588.55,
+		"calendar_year" : 2002
+	}
+]
